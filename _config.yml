@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 
 
-page.title: AppCoocker
+page:
+  title: AppCoocker
