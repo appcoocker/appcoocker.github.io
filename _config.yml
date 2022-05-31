@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/105805684.png"
+  logo: "/images/chef-hat.png"
   author: "AppCoocker"
   tagline: "Open source сообщество"
   include_content: true
